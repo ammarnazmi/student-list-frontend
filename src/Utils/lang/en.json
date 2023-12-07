@@ -1,0 +1,11 @@
+{
+    "table_header": {
+        "id": "Id",
+        "name": "Name",
+        "course": "Course",
+        "email": "Email",
+        "phone": "Phone",
+        "created_at": "Created At",
+        "Action": "Action"
+    }
+}
